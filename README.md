@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><strong>Скачать последнюю версию</strong></a>
+  <a href="../../releases/tag/prod"><strong>Скачать последнюю версию</strong></a>
 </p>
 
 ---
