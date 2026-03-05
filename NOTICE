@@ -1,0 +1,33 @@
+NOTICE
+======
+
+Dictator - Voice-to-text application using Yandex SpeechKit
+Copyright (c) 2026 Dmitriy Shaludnev (luxygolf)
+
+
+Privacy & Data Disclosure
+-------------------------
+This application records audio from your microphone and sends it to
+Yandex Cloud SpeechKit API (stt.api.cloud.yandex.net) for speech
+recognition. Audio data is transmitted over HTTPS to Yandex servers.
+
+By using this application, you acknowledge that:
+- Your voice recordings are sent to Yandex Cloud for processing
+- Data handling is subject to Yandex Cloud Terms of Service
+  (https://yandex.cloud/en/docs/overview/legal)
+- You are responsible for providing your own Yandex Cloud API key
+  and complying with Yandex Cloud usage terms
+- The application stores your API key locally on your device,
+  encrypted with Windows DPAPI (CurrentUser scope)
+- Recognition history (last 30 entries) is stored locally in
+  %APPDATA%/Dictator/
+
+
+Disclaimer
+----------
+This project is not affiliated with, endorsed by, or associated with
+Yandex LLC or Yandex Cloud. "Yandex" and "SpeechKit" are trademarks
+of Yandex LLC.
+
+This software is provided "as is", without warranty of any kind.
+See the LICENSE file for full terms.

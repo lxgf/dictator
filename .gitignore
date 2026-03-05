@@ -1,0 +1,35 @@
+## Build results
+bin/
+obj/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+launchSettings.json
+
+## NuGet
+packages/
+*.nupkg
+
+## Build artifacts
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+*.msixupload
+
+## Generated files
+GeneratedFiles/
+Generated\ Files/
+
+## OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+## Rider / JetBrains
+.idea/
+*.sln.iml
