@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/icon.svg" width="96" alt="Dictator logo"/>
+  <img src="Assets/icon.png" width="96" alt="Dictator logo"/>
 </p>
 
 <h1 align="center">Dictator</h1>
